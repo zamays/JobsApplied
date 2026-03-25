@@ -45,7 +45,7 @@ Place your current resume (.docx and/or .pdf) in `Jobs Applied/My Info/`. Claude
 
 ### 5. Copy the Claude instructions into your session
 
-Copy `setup/CLAUDE_INSTRUCTIONS.md` into your Claude Cowork session folder so Claude can read it at the start of every session.
+Copy `setup/CLAUDE_INSTRUCTIONS.md` into your Claude Cowork session folder so Claude (Opus) can read it at the start of every session.
 
 ### 6. Share the folder with Claude
 
